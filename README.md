@@ -38,7 +38,7 @@ Or whatever your imagination can think of
 
 You can also animate your drawings
 
-![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/blinking.gif)
+![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/blinking-small.gif)
 
 
 The library supports primitives such as

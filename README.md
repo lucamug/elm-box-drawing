@@ -4,6 +4,7 @@ Create pictures and animations with [Box-drawing characters](https://en.wikipedi
 
 ![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/robot-animation.gif)
 
+* [Ellie of Animated Robot](https://ellie-app.com/9T8p4zgj3QKa1)
 
 Box-drawing characters, also known as line-drawing characters, are a form of semigraphics used to draw boxes and similar geometric shapes.
 
@@ -43,6 +44,7 @@ You can also animate your drawings
 
 ![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/blinking-small.gif)
 
+* [Ellie of Animated Robot head](https://ellie-app.com/9T8nz9XNT4Za1)
 
 The library supports primitives such as
 
@@ -111,7 +113,7 @@ This is another example of diagram:
     │           │<──┤ HTML  ├───┤              │<─────┤ Html  ├──────┤           │
     └───────────┘   └───────┘   └──────────────┘      └───────┘      └───────────┘
 
-[Ellie](https://ellie-app.com/9T8kXPWHf8Za1)
+* [Ellie of The Elm Architecture diagram](https://ellie-app.com/9T8kXPWHf8Za1)
 
 This is the code:
 
@@ -168,9 +170,9 @@ This is the code:
 
 # Other examples:
 
-* [Ellie of Animated Robot head](https://ellie-app.com/9T8nz9XNT4Za1)
 * [Ellie of Animated Robot](https://ellie-app.com/9T8p4zgj3QKa1)
-
+* [Ellie of Animated Robot head](https://ellie-app.com/9T8nz9XNT4Za1)
+* [Ellie of The Elm Architecture diagram](https://ellie-app.com/9T8kXPWHf8Za1)
 
 Other examples are available [here](https://github.com/lucamug/elm-box-drawing/tree/master/examples), [here](https://github.com/lucamug/ro-box/tree/master/src/Examples) or in the [Ro-Box website](https://ro-box.netlify.app/) where you can play directly with the library through the web interface.
 

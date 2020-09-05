@@ -2,6 +2,8 @@
 
 Create pictures and animations with [Box-drawing characters](https://en.wikipedia.org/wiki/Box-drawing_character)!
 
+![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/robot-animation.gif)
+
 Box-drawing characters, also known as line-drawing characters, are a form of semigraphics used to draw boxes and similar geometric shapes.
 
 They work well with monospaced fonts and are perfected to decorate your code documentation or your README files.
@@ -108,6 +110,8 @@ This is another example of diagram:
     │           │<──┤ HTML  ├───┤              │<─────┤ Html  ├──────┤           │
     └───────────┘   └───────┘   └──────────────┘      └───────┘      └───────────┘
 
+[Ellie](https://ellie-app.com/9T8kXPWHf8Za1)
+
 This is the code:
 
     import BoxDrawing exposing (..)
@@ -161,4 +165,11 @@ This is the code:
             ]
 
 
+# Other examples:
+
+* [Ellie of Animated Robot head](https://ellie-app.com/9T8nz9XNT4Za1)
+* [Ellie of Animated Robot](https://ellie-app.com/9T8p4zgj3QKa1)
+
+
 Other examples are available [here](https://github.com/lucamug/elm-box-drawing/tree/master/examples), [here](https://github.com/lucamug/ro-box/tree/master/src/Examples) or in the [Ro-Box website](https://ro-box.netlify.app/) where you can play directly with the library through the web interface.
+

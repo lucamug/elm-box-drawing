@@ -16,7 +16,6 @@ You can create robots
      ║  └───┘  ║
      ╚═════════╝
 
-
 Diagrams
 
      ┌─────────┐     ┌─────────┐
@@ -37,6 +36,9 @@ Or whatever your imagination can think of
     ├─╬═╬═╬═╝      │ └─┘ └─┘ │
     ╚═╩═╩═╝        ╚──═════──╝
 
+You can also animate your drawings
+
+![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/blinking.gif)
 
 The library supports primitives such as
 

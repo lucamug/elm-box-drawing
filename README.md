@@ -40,6 +40,7 @@ You can also animate your drawings
 
 ![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/blinking.gif)
 
+
 The library supports primitives such as
 
                           ║          ║

@@ -4,6 +4,7 @@ Create pictures and animations with [Box-drawing characters](https://en.wikipedi
 
 ![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/robot-animation.gif)
 
+
 Box-drawing characters, also known as line-drawing characters, are a form of semigraphics used to draw boxes and similar geometric shapes.
 
 They work well with monospaced fonts and are perfected to decorate your code documentation or your README files.

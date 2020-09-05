@@ -667,13 +667,7 @@ For example, if you want to make the eye of a robot blinking:
 
 Result:
 
-     ╔═════════╗
-     ║ ~~~/~~~ ║
-    ┌╣  o   O  ╠┐
-    └╣    └    ╠┘
-     ║  _   _  ║
-     ║  └───┘  ║
-     ╚═════════╝
+![Animated Robot](https://lucamug.github.io/elm-box-drawing/images/blinking-small.gif)
 
 -}
 blinking :

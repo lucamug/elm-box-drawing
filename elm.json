@@ -1,7 +1,7 @@
 {
     "type": "package",
     "name": "lucamug/elm-box-drawing",
-    "summary": "A semiserious library to create drawing using Box Drwaing Characters",
+    "summary": "A semiserious library to create drawings using Box Drawing Characters",
     "license": "BSD-3-Clause",
     "version": "1.0.1",
     "exposed-modules": [
